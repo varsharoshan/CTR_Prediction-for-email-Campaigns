@@ -1,5 +1,6 @@
 # CTR_Prediction-for-email-Campaigns
 Problem Statement
+
 Most organizations today rely on email campaigns for effective communication with users. Email communication is one of the popular ways to pitch products to users and build trustworthy relationships with them.
 
 Email campaigns contain different types of CTA (Call To Action). The ultimate goal of email campaigns is to maximize the Click Through Rate (CTR).
